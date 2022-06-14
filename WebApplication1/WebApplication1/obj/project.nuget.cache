@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nzak7q6bcbMqKDb038XXF4rdk2oNnPFmuaOGMXoKeAt55kg30+YYgdKKUp6jpa9svSuTZbFZhdOfJAkElO5O/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adith\\Desktop\\test\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adith\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\adith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
